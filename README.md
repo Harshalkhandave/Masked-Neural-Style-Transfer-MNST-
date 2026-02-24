@@ -11,6 +11,16 @@ This project supports:
 
 ---
 
+## 🚀 Live Demo
+
+The project is deployed and accessible here:
+
+👉 **Live App:** https://maskednst.duckdns.org/
+
+Hosted on AWS EC2 with Nginx reverse proxy and HTTPS (Let's Encrypt).
+
+---
+
 ## 🚀 Features
 
 - Modular architecture (clean separation of UI and core logic)
