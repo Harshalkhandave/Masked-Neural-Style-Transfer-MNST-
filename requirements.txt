@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+tensorflow_hub
+torch
+torchvision
+rembg[cpu]
+setuptools==68.2.2
