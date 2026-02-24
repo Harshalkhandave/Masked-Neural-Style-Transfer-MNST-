@@ -1,4 +1,4 @@
-# 🎨 NST Project – Advanced Neural Style Transfer Web App
+# 🎨 MNST Project – Advanced Masked Neural Style Transfer Web App
 
 A modular and extensible **Neural Style Transfer (NST)** web application built using **PyTorch** and **Streamlit**.
 
